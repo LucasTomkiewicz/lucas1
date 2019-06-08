@@ -33,5 +33,12 @@ public class CalculatorTest {
 		assertEquals(3, calc.Division(9, 3));
 		
 	}
+	
+	@Test
+	public void testMulti() {
+		//Calculator calc = new Calculator();
+		assertEquals(9, calc.Multi(3, 3));
+		
+	}
 
 }

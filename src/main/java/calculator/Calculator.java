@@ -17,6 +17,10 @@ public class Calculator {
 		return x/y;
 	}
 	
+	public Object Multi(int x, int y) {
+		// TODO Auto-generated method stub
+		return x*y;
+	}
 	
 
 }
